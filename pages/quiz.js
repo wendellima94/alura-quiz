@@ -2,7 +2,6 @@ import React from 'react';
 /* eslint-disable react/prop-types */
 import db from '../db.json';
 import Widget from '../src/Widget';
-// import QuizLogo from '../src/QuizLogo';
 import QuizBackground from '../src/QuizBackground';
 import QuizContainer from '../src/QuizContainer';
 import Button from '../src/Button'
